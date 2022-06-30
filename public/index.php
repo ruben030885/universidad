@@ -5,6 +5,7 @@ require __DIR__ . "./../vendor/autoload.php";
 $request=new \App\Http\Request();
 $request->send();
 
+<<<<<<< HEAD
 
 //echo "<h1>Hola Mundo Nuevo!</h1>";  "https://universidad-9.herokuapp.com/"
 // de este lado como estamos llamando o instanciando a esas clases
@@ -34,3 +35,6 @@ $objetoDos ->setNombre("Chicharon");
 
 // api para eliminar una comida
 //delete: dominio/comida/{5}
+=======
+echo "<h1>Hola Mundo Nuevo Nuevo </h1>";
+>>>>>>> 41c282480475aa5de44a9060fcca35353c477d62
