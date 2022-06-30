@@ -1,6 +1,6 @@
 {
-    "name": "marcoandresito/restaurant",
-    "description": "sistema para un restaurante",
+    "name": "ruben.ovando/universidad",
+    "description": "sistema para un universidad",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Andres Vasquez",
-            "email": "sin@correo.bo"
+            "name": "Ruben Ovando",
+            "email": "ruben0308@hotmail.com"
         }
     ],
     "require": {}
